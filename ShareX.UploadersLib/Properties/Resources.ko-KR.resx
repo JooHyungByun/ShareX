@@ -121,7 +121,7 @@
     <value>상태: 로그인 완료.</value>
   </data>
   <data name="OAuthControl_Status_Status__Not_logged_in_" xml:space="preserve">
-    <value>상태: 로그인되어 있지 않음.</value>
+    <value>상태: 로그인 되어 있지 않음.</value>
   </data>
   <data name="UploadersConfigForm_LoadSettings_Selected_folder_" xml:space="preserve">
     <value>선택된 폴더:</value>
@@ -196,7 +196,7 @@
     <value>올바르지 않은 인증</value>
   </data>
   <data name="UploadersConfigForm_MinusUpdateControls_Not_logged_in_" xml:space="preserve">
-    <value>로그인되어 있지 않음.</value>
+    <value>로그인 되어 있지 않음.</value>
   </data>
   <data name="UploadersConfigForm_OneDriveAddFolder_Querying_folders___" xml:space="preserve">
     <value>폴더 불러오는 중...</value>
@@ -255,5 +255,20 @@
   </data>
   <data name="CustomUploaderItem_GetFileFormName_FileFormNameMustBeConfigured" xml:space="preserve">
     <value>"파일 폼 항목명" 항목을 설정해야 합니다.</value>
+  </data>
+  <data name="OAuthControl_Status_LoginFailed" xml:space="preserve">
+    <value>로그인 실패.</value>
+  </data>
+  <data name="OAuthControl_Status_NotLoggedIn" xml:space="preserve">
+    <value>로그인 되어 있지 않음.</value>
+  </data>
+  <data name="UploadersConfigForm_UpdatePastebinStatus_LoggedIn" xml:space="preserve">
+    <value>로그인 되어 있음</value>
+  </data>
+  <data name="OAuthControl_Status_LoggedIn" xml:space="preserve">
+    <value>로그인 되어 있음</value>
+  </data>
+  <data name="UploadersConfigForm_UpdatePastebinStatus_NotLoggedIn" xml:space="preserve">
+    <value>로그인 되어 있지 않음.</value>
   </data>
 </root>
